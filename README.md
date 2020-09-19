@@ -14,7 +14,7 @@ Steps to execute:
 -- The above scripts were executed with version - Terraform v0.12.16
 2. Browse to the directory where you have downloaded the above files.
 3. Open a command prompt and execute the following commands in that order
-> terraform init # to download aws provider
+> terraform init
 > terraform apply
 4. Cleanup
 > terraform destroy
